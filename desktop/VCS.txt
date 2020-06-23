@@ -1,3 +1,0 @@
-Version control systems are a category of software tools that help a software group to manage changes to source code over time.it's software keeps track of every change to the code in a special kind of database. If any change is made, developers can always view the changes and compare earlier versions of the code to help fix the error without interaction of any other members.
-
-If any idea you want to implement in your project you can just write the code in your editor and commit the changes specifying your idea.It will show each line of code you have changed. So that the process flow of your project will be immense. It is like a super save button of your project.Even if you erase the whole code and save it, you can always get back by just typing single command.
